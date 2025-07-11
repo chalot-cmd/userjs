@@ -7,6 +7,8 @@
 // @match        *pass.*/bk_itsm*/ticketInfo?*
 // @icon         http://
 // @grant        none
+// @downloadURL  https://github.com/chalot-cmd/userjs/raw/refs/heads/main/itsm_confirm.user.js
+// @updateURL    https://github.com/chalot-cmd/userjs/raw/refs/heads/main/itsm_confirm.user.js
 // ==/UserScript==
 
 (function() {
