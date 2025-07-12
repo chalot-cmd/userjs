@@ -4,7 +4,8 @@
 // @version      0.4
 // @description  蓝鲸ITSM智能确认弹窗。
 // @author       chalot
-// @match        *pass.*/bk_itsm*/ticketInfo?*
+// @match        https://*/o/bk_itsm*
+// @match        https://*/o/bk_itsm/*
 // @icon         http://
 // @grant        none
 // @downloadURL  https://github.com/chalot-cmd/userjs/raw/refs/heads/main/itsm_confirm.user.js
