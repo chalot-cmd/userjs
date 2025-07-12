@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         itsm_confirm
 // @namespace    蓝鲸ITSM
-// @version      0.4
+// @version      0.5
 // @description  蓝鲸ITSM智能确认弹窗。
 // @author       chalot
 // @match        https://*/o/bk_itsm*
